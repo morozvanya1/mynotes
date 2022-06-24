@@ -16,8 +16,8 @@
       "id": 5
     },
     {
-      "body": "Команды для старта сервера\nserve -s build -p 5000\nnpm run server",
-      "updated": "2022-06-24T07:42:47.606Z",
+      "body": "Команды для старта сервера\n- serve -s build -p 5000\n- npm run server\n- npm start",
+      "updated": "2022-06-24T08:15:10.112Z",
       "id": 6
     }
   ]
